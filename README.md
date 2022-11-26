@@ -1,4 +1,4 @@
-# Pixelplus Cade Study [(LIVE)](https://pixelplus-case.netlify.app/)
+# Pixelplus Case Study [(LIVE)](https://pixelplus-case.netlify.app/)
 
 
 - Axios api ile GET/POST işlemleri.
