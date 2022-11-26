@@ -1,0 +1,22 @@
+.reviewContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 10vh;
+
+    &__img{
+        border-radius: 100px;
+    }
+    &__nameSurname{
+        display: flex;
+        margin: 5px;
+        padding: 5px;
+    }
+    &__name{
+        margin-right: 5px;
+    }
+    &__button{
+        width: 20vh;
+    }
+}

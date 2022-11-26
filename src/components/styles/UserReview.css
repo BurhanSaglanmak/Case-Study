@@ -1,0 +1,21 @@
+.reviewContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 10vh;
+}
+.reviewContainer__img {
+  border-radius: 100px;
+}
+.reviewContainer__nameSurname {
+  display: flex;
+  margin: 5px;
+  padding: 5px;
+}
+.reviewContainer__name {
+  margin-right: 5px;
+}
+.reviewContainer__button {
+  width: 20vh;
+}/*# sourceMappingURL=UserReview.css.map */

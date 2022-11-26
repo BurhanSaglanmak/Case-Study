@@ -1,0 +1,18 @@
+.CreateContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 10px;
+  margin-top: 10vh;
+}
+.CreateContainer__input {
+  margin: 10px;
+  min-width: 17em;
+  min-height: 3em;
+}
+.CreateContainer__button {
+  margin: 10px;
+  min-width: 17em;
+  min-height: 3em;
+}/*# sourceMappingURL=CreateMember.css.map */
