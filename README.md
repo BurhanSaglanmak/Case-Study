@@ -3,6 +3,7 @@
 
 - Axios api ile GET/POST işlemleri.
 - Contex api kullanımı.
+- Scss ile BEM methodolojisi kullanımı. 
 - Detay ve Create sayfaları.
 
 # Screenshot
