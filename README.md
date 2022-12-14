@@ -1,4 +1,4 @@
-#  Case Study [(LIVE)](https://case-study-001.netlify.app/)
+#  React Case Study [(LIVE)](https://case-study-001.netlify.app/)
 
 
 - Axios api ile GET/POST işlemleri.
