@@ -32,7 +32,7 @@ function Main() {
     return (
         <div className='mainContainer'>
             <div className='mainContainer__mainName'>
-                <h1 >Pixelplus Case Study</h1>
+                <h1 >Case Study</h1>
             </div>
 
             {Array.isArray(data) ? isTrue === false && <div>
